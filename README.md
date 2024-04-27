@@ -1,5 +1,3 @@
-#Zeynep Vural
-
 ### About Me
 
 ### Education
