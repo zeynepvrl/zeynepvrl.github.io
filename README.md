@@ -1,7 +1,7 @@
 #Zeynep Vural
 
-###About Me
+### About Me
 
 ### Education
 
-###Projects
+### Projects
